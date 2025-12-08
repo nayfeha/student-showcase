@@ -2,7 +2,7 @@
   "studentName": "Abatu Dykstra",
   "projectTitle": "OMNI DJ Controller",
   "description": "A web-based DJ music controller with dual decks, crossfader, tempo control, audio effects (reverb & delay), spectrum analyzer, and auto-sync functionality for mixing tracks.",
-  "projectType": "Web App",
+  "projectType": ["Web App", "Other"],
   "projectUrl": "https://umsi211f2025.github.io/final-project-abluewolverine/apps/dj-controller/",
   "githubUrl": "https://github.com/umsi211f2025/final-project-abluewolverine",
   "projectImage": "music-controller.png",
