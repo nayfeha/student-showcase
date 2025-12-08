@@ -9,5 +9,5 @@
 "tags": ["JavaScript", "CSS", "HTML","TailwindCSS"],
 "reflections": "Working on this simulator strengthened my frontend fundamentals: implementing a state machine for signal transitions, managing timer-based updates reliably, and structuring code for clarity. I learned to debug race conditions with setInterval/setTimeout, improve accessibility and keyboard support, and prepare the app for deployment on Render. Next steps are adding vehicle/pedestrian animations, saving custom timing presets, and adding unit tests for the timing logic.",
 "studentPhoto": "silhouette-student.svg",
-"videoUrl": "https://youtube.com/"
+"videoUrl": "https://www.youtube.com/watch?v=LC6oZ8RhKUk"
 }
